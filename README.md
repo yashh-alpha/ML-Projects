@@ -35,13 +35,6 @@ Each project is contained in its own folder and typically includes:
 * Scikit-learn
 * XGBoost
 * Matplotlib
-```
-ml-projects/
-│
-├── project-folder-1/
-├── project-folder-2/
-├── project-folder-3/
-```
 
 ## Notes
 
